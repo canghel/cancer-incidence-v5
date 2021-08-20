@@ -1,0 +1,7 @@
+# ignore directories for data and outputs
+data/
+outputs/
+# ignore Rhistory file
+scripts/*/.Rhistory
+scripts/*/.RData
+
